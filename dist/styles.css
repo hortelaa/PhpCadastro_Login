@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.animbtnsite {
+    @apply transition duration-500 ease-out transform hover:scale-110;
+}
