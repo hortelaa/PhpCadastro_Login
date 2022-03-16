@@ -2,9 +2,9 @@
 
 # Funcionalidades
 
-• Sistema de Login
-• Sistema de Cadastro
-• Painel que ao logar, mostra os dados da sua conta.
+- Sistema de Login
+- Sistema de Cadastro
+- Painel que ao logar, mostra os dados da sua conta.
 
 # Como instalar
 1. Abrir o diretório do site no Visual Studio Code.
