@@ -19,6 +19,13 @@ npm run build
 ```
 5.Importar o arquivo dec9teste.sql para ter acesso ao banco de dados.
 
+ DATABASE
+  - Nome do banco de dados: dec9teste
+  - Nome de usuário: root
+  - Senha:
+  - Servidor do banco de dados: localhost
+  - Prefixo da tabela:
+
 # Ferramentas
 - JavaScript  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="20">
 
